@@ -1,0 +1,44 @@
+body{
+    background-color: aqua; 
+    
+}
+
+h1{
+    background-color: brown;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+    margin: 0; 
+    border: solid rgb(0, 0, 0) 6px;
+    border-radius: 5px;
+}
+
+p{
+    font-size: 25px
+}
+
+h2{
+    background-color: brown;
+    color: white;
+    padding-top: 15px;
+}
+
+ol li a{
+    text-decoration: none;
+}
+
+
+
+h4{
+    color: white;
+    background-color: brown;
+    font-size: 25px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: red;
+}
+

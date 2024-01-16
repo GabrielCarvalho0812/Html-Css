@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/*em html id no css é #*/
+/*em html class no css é .*/
+
+body{
+    background-image: linear-gradient(rgba(244, 4, 4, 0.783),rgba(95, 95, 136, 0.726));
+}
+
+#principal{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.basico{
+    color: green;
+}
+
+.intermediario{
+    color: rgb(220, 196, 16);
+}
+
+.avançado{
+    color: rgb(238, 5, 5)
+}

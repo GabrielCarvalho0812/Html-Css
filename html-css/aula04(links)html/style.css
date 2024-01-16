@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-top: 30px;
+}
+
+ol{
+    text-align: center;
+}
+
+ li{
+   display: inline; /* colocar os elementos em deitado*/
+   padding: 15px;
+}
+
+.pai{
+    position: relative;
+    padding: 30px;
+    padding-left: 0%;
+    padding-right: 0%;
+    background-color: blueviolet;
+    width: 400px;
+    margin: auto;
+    border: 100px;
+    margin-bottom: 400px;
+    text-align: center;
+    margin-top: 25px;
+    border-radius: 30px;
+    padding-top: 20px;
+    
+    
+    
+}
+
+label{
+    color: white;
+}
+
+input{
+    
+    padding: 5px;
+    margin-top: 10px;
+    margin: 20px;
+    color: white;
+    background-color:cornflowerblue;  
+}
+
+button{
+    background-color: greenyellow;
+    width: 150px;
+    padding: 10px;
+    border-radius: 15px; 
+    border: 20px;
+}
+
+
